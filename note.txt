@@ -1,0 +1,2 @@
+membuat requirements
+pip freeze > requirements.txt
